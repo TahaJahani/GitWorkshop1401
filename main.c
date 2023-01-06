@@ -2,8 +2,6 @@
 
 int main()
 {
-    int n;
-    scanf("%d", &n);
-    printf("You entered: %d\n", n);
+    printf("How are you?\n");
     return 0;
 }
