@@ -1,8 +1,15 @@
 #include <stdio.h>
 
-int test(int x)
+
+int function()
 {
-    return 2 * x;
+    printf("I am a useless function!\n");
+    return 2;
+}
+
+int test()
+{
+    return 2 * 5;
 }
 
 int main()
