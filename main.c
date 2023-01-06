@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+int function()
+{
+    printf("I am a useless function!\n");
+    return 2;
+}
+
 int test()
 {
     return 2 * 5;
